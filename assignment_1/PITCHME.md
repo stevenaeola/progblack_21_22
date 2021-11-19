@@ -5,8 +5,8 @@
 ## Term 1 Programming Exercise Outline
 
 - Submission of code and video by 14:00 26 January 2022
-- Submission of peer reviews by 14:00 11 February 2021
-- Return by 23 February 2021
+- Submission of peer reviews by 14:00 11 February 2022
+- Return by 23 February 2022
 - Contributes 50% of module marks
 - Includes peer review feedback which you will be allocated
 
@@ -122,7 +122,7 @@ Should not include `node_modules` in submission
 
 ## Assessment Criteria
 
-Equally weighted 20% each
+Equally weighted 9% each
 
 - Client-side functionality
 - Client-side quality
@@ -187,7 +187,7 @@ Equally weighted 20% each
 
 ## Peer Review Marking
 
-5 marks are awarded for peer assessment
+5% of the module marks are awarded for peer assessment
 
 * 2 marks for completion of four peer reviews
 * 3 marks for the accuracy of the reviews
