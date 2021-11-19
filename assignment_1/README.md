@@ -12,7 +12,7 @@
 
 ## Subject-specific Knowledge
 
-- Interaction between JavaScript progams and the Document Object Model (DOM)
+- Interaction between JavaScript programs and the Document Object Model (DOM)
 - Using control statements to loop and make decisions
 - An understanding of the nature of imperative programming in the object-oriented style
 - A knowledge and understanding of good programming practice (for example, reuse, documentation and style)
@@ -44,7 +44,7 @@
 
 ## Dynamic web site
 
-- CHoose any application domain as long as it includes at least two kinds of entity e.g.
+- Choose any application domain as long as it includes at least two kinds of entity e.g.
   - pictures
   - people
   - places
