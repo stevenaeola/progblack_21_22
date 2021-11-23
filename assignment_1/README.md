@@ -1,4 +1,4 @@
-# DRAFT COMP1101 Programming (Black) Summative Assessment 1 DRAFT
+# COMP1101 Programming (Black) Summative Assessment 1 
 
 
 ## Term 1 Programming Exercise Outline
@@ -16,6 +16,8 @@
 - Using control statements to loop and make decisions
 - An understanding of the nature of imperative programming in the object-oriented style
 - A knowledge and understanding of good programming practice (for example, reuse, documentation and style)
+
+
 - Building collections of data within a program and using JavaScript Object Notation (JSON)
 - Making programs robust through the use of exceptions and exception handling
 - A knowledge and understanding of good programming practice (for example, reuse, documentation and style)
