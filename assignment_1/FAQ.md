@@ -25,6 +25,10 @@ No
 
 Basically your client-side code should do something sensible if the connection to the server goes down (as it might do if it were connected via the internet). It should display an informative message to the user, and maybe try again later. You can test this by stopping the server and trying to interact with it through the client. Once the server is started up again the client should be able to carry on as before.
 
+###  Is it possible to use TypeScript or should we just stick with normal JavaScript?
+
+TypeScript needs transpilation tools to be installed and uses different code quality rules so for this assignment you should stick with plain JavaScript - you are free to do what you want in the second assignment.
+
 ## Server-side functionality criteria
 
 ### Are we allowed to include additional modules via NPM that provide additional functionality?
