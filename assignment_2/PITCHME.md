@@ -123,8 +123,7 @@ For example
 
 ## Learning log
 
-- Make at least four separate entries
-- reasonably spaced over a period of at least six weeks
+- Make at least four separate entries reasonably spaced over a period of at least six weeks
 - The entries can either be separate files or different sections within the same file. 
 - They should be written using Markdown and stored in a private repository on GitHub. 
 - You need to commit and push each entry as you make it so that the dates of the entries are correctly recorded in git. 
