@@ -124,6 +124,8 @@ For example
 
 Make at least four separate entries, reasonably spaced over a period of at least six weeks. The entries can either be separate files or different sections within the same file. They should be written using Markdown and stored in a private repository on GitHub. You need to commit and push each entry as you make it so that the dates of the entries are correctly recorded in git. You can include images and external links.
 
+---
+
 For each entry identify
 - What you have done (to learn your skill and contribute to your project)
 - What you have learned
@@ -132,12 +134,16 @@ For each entry identify
 
 The learning log should have a maximum total word count of 1500 words, as measured by the [Microsoft VS Code Word Count plugin](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount) and have a reasonable balance between the entries.
 
+---
+
 ### Assessment criteria (10% each)
 - Number, timing and word count of entries (use of git)
 - Appropriate development and monitoring of goals
 - Evidence of increased understanding
 - Evidence of collaboration
 - Evidence of criticality about your own actions and assumptions
+
+---
 
 ## Guide for learners
 
@@ -148,12 +154,16 @@ Based on your experience, write a Markdown document which explains to somebody e
 - Learning materials (10%): Provide appropriate links to external resources with commentary
 - Evaluation (10%): How useful is the skill, compared with the effort of learning it? What similar alternatives are there?
 
+---
+
 A presentation mark (10%) will be awarded on the basis of
   - formatting in （[GitHub flavored](https://GitHub.GitHub.com/gfm/)) Markdown
   - choice of media (images, video)
   - clear writing style appropriate for audience
 
  The guide for learners should have a maximum total word count of 1500 words, as measured by the [Microsoft VS Code Word Count plugin](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount) 
+
+---
 
 ## Submission
 
