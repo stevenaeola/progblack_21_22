@@ -128,7 +128,9 @@ The learning log should have a maximum total word count of 1500 words, as measur
 
 ## Guide for learners
 
-Based on your experience, write a Markdown document which explains to somebody else how to master the skill you have been learning, structured as follows
+Based on your experience, write a Markdown document which explains to somebody else how to master the skill you have been learning
+
+## Guide for learners structure
 
 - Motivation (10%): Why learn it?
 - Background (10%): What do you need to know before starting? Include links to material to catch up. Make it clear who your target audience is
