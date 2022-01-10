@@ -167,6 +167,7 @@ Based on your experience, write a Markdown document which explains to somebody e
 ---
 
 A presentation mark (10%) will be awarded on the basis of
+
   - formatting in （[GitHub flavored](https://GitHub.GitHub.com/gfm/)) Markdown
   - choice of media (images, video)
   - clear writing style appropriate for audience
@@ -179,6 +180,11 @@ A presentation mark (10%) will be awarded on the basis of
 
 ## Submission
 
-Your learning log and your guide for learners should be held within a single private repository on GitHub. In the repository you should include a README file including a link to the repository on GitHub. You should submit the entire content of the repository as a zip file. The repository on GitHub must be accessible by me (username stevenaeola). Allow access to the repository through Settings - Manage Access - Invite a collaborator. If you do not allow access you will lose marks. Note that this does not affect the access to any code you may write, which would most likely be in a public repository.
+- Your learning log and your guide for learners should be held within a single private repository on GitHub. 
+- In the repository you should include a README file including a link to the repository on GitHub. 
+- You should submit the entire content of the repository as a zip file. The repository on GitHub must be accessible by me (username stevenaeola).
+- Allow access to the repository through Settings - Manage Access - Invite a collaborator. 
+- If you do not allow access you will lose marks. 
+- Note that this does not affect the access to any code you may write, which would most likely be in a public repository.
 
 
