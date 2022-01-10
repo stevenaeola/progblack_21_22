@@ -132,6 +132,7 @@ For example
 ---
 
 For each entry identify
+
 - What you have done (to learn your skill and contribute to your project)
 - What you have learned
 - Any changes to your goals (or what your initial goals are for the first entry)
