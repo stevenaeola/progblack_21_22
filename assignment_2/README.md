@@ -130,6 +130,7 @@ The learning log should have a maximum total word count of 1500 words, as measur
 
 Based on your experience, write a Markdown document which explains to somebody else how to master the skill you have been learning
 
+
 ## Guide for learners structure
 
 - Motivation (10%): Why learn it?
@@ -142,6 +143,7 @@ A presentation mark (10%) will be awarded on the basis of
   - formatting in （[GitHub flavored](https://GitHub.GitHub.com/gfm/)) Markdown
   - choice of media (images, video)
   - clear writing style appropriate for audience
+
 
  The guide for learners should have a maximum total word count of 1500 words, as measured by the [Microsoft VS Code Word Count plugin](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount) 
 
